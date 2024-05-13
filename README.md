@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-backend-developer-skills-need-web-development-smriti-saini&psig=AOvVaw3Icg9-U3pH0T7e5ZiwzlQv&ust=1715717217766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjqj-y2i4YDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fverpex.com%2Fblog%2Fwebsite-tips%2Fhow-to-become-a-backend-developer&psig=AOvVaw3Icg9-U3pH0T7e5ZiwzlQv&ust=1715717217766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjqj-y2i4YDFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
