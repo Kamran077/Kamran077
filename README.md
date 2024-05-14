@@ -12,6 +12,14 @@
 <a href="https://linkedin.com/in/kamran aliguliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran aliguliyev" height="30" width="40" /></a>
 <a href="https://instagram.com/kamran.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamran.0.1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kamrankamran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamrankamran123" height="30" width="40" /></a>
+   <a href="https://groups.eolymp.com/en/users/Kenan_Em1nl1_DIA" target="_blank"
+    ><img
+      align="center"
+      src="https://mmzeynalli.dev/images/posts/dsa/eolymp.png"
+      alt="Kenan_Em1nl1_DIA"
+      height="40"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
