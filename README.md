@@ -21,7 +21,10 @@
    ><img
        align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="kamran.0.1" height="30" width="40" /></a>
+       alt="kamran.0.1" 
+       height="30" 
+       width="40" 
+   /></a>
 <a href="https://www.leetcode.com/kamrankamran123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamrankamran123" height="30" width="40" /></a>
    <a href="https://groups.eolymp.com/en/users/KamranAliguliyev" target="_blank"
     ><img
