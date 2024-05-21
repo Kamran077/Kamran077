@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://economictimes.indiatimes.com/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster/primearticleshow/84146083.cms?from=mdr">
 
 - 🌱 I’m currently learning **C# and SQL**
 
