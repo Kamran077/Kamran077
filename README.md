@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kamran</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/scaler-official-work-office-computer-PI3QGKFN6XZUCMMqJm">
 
 - 🌱 I’m currently learning **C# and SQL**
 
