@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kamran Aliguli</h1>
+<h1 align="center">Hi 👋, I'm Kamran Aliguliyev</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **C# and SQL**
